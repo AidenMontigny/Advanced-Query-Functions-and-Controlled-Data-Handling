@@ -29,7 +29,7 @@ Below is the query used to meet their request:  <br/><br/>
   <img src="Screenshot 2025-04-19 163358.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-<p> Building on the previous activity, the marketing department decided to apply a discount <br/>based on stock levels. Products with more than 100 units in stock would receive a 10% <br/> discount, while all other products would receive a 5% discount. A CASE statement was <br/> created to modify the "ListPrice" and generate a new field called "SalesPrice," which reflects the applicable discount based on the product's stock quantity. </p>
+<p> Building on the previous activity, the marketing department decided to apply a discount <br/>based on stock levels. Products with more than 100 units in stock would receive a 10% <br/> discount, while all other products would receive a 5% discount. A CASE statement was <br/> created to modify the "ListPrice" and generate a new field called "SalesPrice," which <br/> reflects the applicable discount based on the product's stock quantity. </p>
 Below is the query used to meet their request: <br/><br/>
   <img src="Screenshot 2025-04-19 163407.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
